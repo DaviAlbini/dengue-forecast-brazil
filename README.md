@@ -4,7 +4,7 @@ Predictive modeling of dengue fever outbreaks across 13 municipalities in Southe
 
 Published as a graduate research paper — **MBA in Data Science & Analytics, USP/Esalq (2025)**.
 
-📄 [Read the full paper (PDF)](./Article.pdf) · 📓 [View the notebook on nbviewer](https://nbviewer.org/github/DaviAlbini/dengue-forecast-brazil/blob/main/DengueAnalysis.ipynb)
+📄 [Read the full paper (PDF)](./Article.pdf) · 📓 [View the notebook on Google Colab](https://colab.research.google.com/github/DaviAlbini/dengue-forecast-brazil/blob/main/DengueAnalysis.ipynb)
 
 ---
 
